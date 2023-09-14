@@ -11,7 +11,7 @@
 
 ## The Functionalities :
 
-- This can create, remove, update and read books, CDs, DVDs and Magazines.
+- This can create, read, update and delete books, CDs, DVDs and Magazines.
 - This can search through the entire catalogue against name, time of publishing, author, duration and number of pages.
 - Uses the file system as the database.
 
