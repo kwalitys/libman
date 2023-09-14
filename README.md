@@ -1,6 +1,6 @@
 # Library Management System
 
-## Instructions To Use:
+## Instructions To Use :
 
 - This is made completely using Java.
 - For this to be working in your machine, please change the file name which is mentioned in line 18 of Catalogue.java to your preferred file.
